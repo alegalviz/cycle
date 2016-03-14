@@ -1,0 +1,26 @@
+{
+  "name": "jquery-cycle",
+  "homepage": "http://jquery.malsup.com",
+  "authors": [
+    "M. Alsup"
+  ],
+  "description": "Slideshow goodness http://jquery.malsup.com/cycle/",
+  "main": "jquery.cycle.all.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "slideshow",
+    "carousel",
+    "slider",
+    "cycle"
+  ],
+  "license": "MIT, GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
