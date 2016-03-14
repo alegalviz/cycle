@@ -1,14 +1,20 @@
 {
   "name": "jquery-cycle",
+  "version": "3.0.3",
+  "main": [
+    "jquery.cycle.all.js"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "homepage": "http://jquery.malsup.com",
   "authors": [
     "M. Alsup"
   ],
   "description": "Slideshow goodness http://jquery.malsup.com/cycle/",
-  "main": "jquery.cycle.all.js",
-  "moduleType": [
-    "globals"
-  ],
   "keywords": [
     "slideshow",
     "carousel",
@@ -16,12 +22,6 @@
     "cycle"
   ],
   "license": "MIT, GPL",
-  "ignore": [
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
     "jquery": ">=1.7.0"
   }
