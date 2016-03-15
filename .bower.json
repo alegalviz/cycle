@@ -5,24 +5,15 @@
     "jquery.cycle.all.js"
   ],
   "ignore": [
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "tests",
+    "index.php",
+    "examples",
+    "bower_components"
   ],
-  "homepage": "http://jquery.malsup.com",
-  "authors": [
-    "M. Alsup"
-  ],
-  "description": "Slideshow goodness http://jquery.malsup.com/cycle/",
-  "keywords": [
-    "slideshow",
-    "carousel",
-    "slider",
-    "cycle"
-  ],
-  "license": "MIT, GPL",
   "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "devDependencies": {
     "jquery": ">=1.7.0"
   }
 }
