@@ -1,6 +1,6 @@
 {
   "name": "jquery-cycle",
-  "version": "3.0.3-a",
+  "version": "3.0.3-b",
   "main": [
     "jquery.cycle.all.js"
   ],
